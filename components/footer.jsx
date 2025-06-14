@@ -34,7 +34,7 @@ const footer =async () => {
             </Link>
         </div>
         <p className="mt-8 text-base leading-6 text-center text-gray-400">
-            © 2025 PREPO, Inc. All rights reserved.
+            © 2025 PREPO, Made by Abhishek Kumar
         </p>
     </div>
 </section>

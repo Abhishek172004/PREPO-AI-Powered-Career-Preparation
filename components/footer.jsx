@@ -2,6 +2,8 @@ import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 
+
+// footer code start here
 const footer =async () => {
   return (
 <section className="bg-background">
